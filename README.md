@@ -45,18 +45,18 @@
 ---
 
 ## 📊 GitHub Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cap_Harlok&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrPukhaevGeor&show_icons=true&theme=tokyonight)  
 
 ---
 
 ## 📂 Репозитории
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap_Harlok&repo=project1&theme=tokyonight)](https://github.com/Cap_Harlok/project1)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap_Harlok&repo=project2&theme=tokyonight)](https://github.com/Cap_Harlok/project2)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=project1&theme=tokyonight)](https://github.com/MrPukhaevGeor/project1)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=project2&theme=tokyonight)](https://github.com/MrPukhaevGeor/project2)  
 
 ---
 
 ## 🔝 Топовые языки
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cap_Harlok&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPukhaevGeor&layout=compact&theme=radical)  
 
 ---
 
@@ -93,10 +93,10 @@
 
 ## 📫 Контакты
 <p align="center">
-  <a href="https://t.me/твой_ник">
+  <a href="https://t.me/@Geor_Pukh">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://vk.com/твой_ник">
+  <a href="https://vk.com/id781140391">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
 </p>
