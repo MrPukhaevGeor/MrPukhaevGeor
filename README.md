@@ -1,6 +1,6 @@
- # 👋 Привет, меня зовут Геор
+ #  Привет, меня зовут Геор
 
-## 🧠 Обо мне
+##  Обо мне
 - Машинное обучение и исследование алгоритмов — моя основная сфера.  
 - Работаю с **данными, математическими моделями и оптимизацией рабочих процессов**.  
 - веду проекты от **EDA и построения моделей** до **деплоя в продакшн и MLOps**.  
@@ -8,7 +8,7 @@
 
 ---
 
-## ⚙️ Стек и инструменты
+##  Стек и инструменты
 
 ### ML / DL
 - **PyTorch** — кастомные модели, исследование архитектур, доработка loss-функций  
@@ -44,21 +44,21 @@
 
 ---
 
-## 📊 GitHub Статистика
+## GitHub Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrPukhaevGeor&show_icons=true&theme=tokyonight)  
 
 ---
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Drone-monitoring-system&theme=tokyonight)](https://github.com/MrPukhaevGeor/Drone-monitoring-system)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=название-второго-репозитория&theme=tokyonight)](https://github.com/MrPukhaevGeor/название-второго-репозитория)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Energy-Balance-Forecasting-and-Planning-App&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Energy-Balance-Forecasting-and-Planning-App)
 ---
 
-## 🔝 Топовые языки
+## Топовые языки
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPukhaevGeor&layout=compact&theme=radical)  
 
 ---
 
-## 🛠️ ML-инструменты
+##  ML-инструменты
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
@@ -84,12 +84,12 @@
 
 ---
 
-## 🎭 Рандомная шутка
+## Рандомная шутка
 ![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)  
 
 ---
 
-## 📫 Контакты
+## Контакты
 <p align="center">
   <a href="https://t.me/@Geor_Pukh">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
