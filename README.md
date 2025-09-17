@@ -50,7 +50,7 @@
 ---
 
 ## 📂 Репозитории
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=project1&theme=tokyonight)](https://github.com/MrPukhaevGeor/project1)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=project1&theme=tokyonight)](https://github.com/MrPukhaevGeor/Drone-monitoring-system)  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=project2&theme=tokyonight)](https://github.com/MrPukhaevGeor/project2)  
 
 ---
