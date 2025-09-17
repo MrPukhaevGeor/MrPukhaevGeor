@@ -49,8 +49,9 @@
 
 ---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Drone-monitoring-system&theme=tokyonight)](https://github.com/MrPukhaevGeor/Drone-monitoring-system)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Energy-Balance-Forecasting-and-Planning-App&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Energy-Balance-Forecasting-and-Planning-App)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Drone-monitoring-system&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Drone-monitoring-system)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Energy-Balance-Forecasting-and-Planning-App&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Energy-Balance-Forecasting-and-Planning-App)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Social-Media-Data-EDA&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Social-Media-Data-EDA)
 ---
 
 ## Топовые языки
