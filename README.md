@@ -52,6 +52,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Drone-monitoring-system&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Drone-monitoring-system)  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Energy-Balance-Forecasting-and-Planning-App&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Energy-Balance-Forecasting-and-Planning-App)  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Social-Media-Data-EDA&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Social-Media-Data-EDA)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Central-Asia-Data-Analysis&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Central-Asia-Data-Analysis)
 ---
 
 ## Топовые языки
@@ -59,30 +60,19 @@
 
 ---
 
-##  ML-инструменты
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white)  
-![LightGBM](https://img.shields.io/badge/LightGBM-0B9E48?logo=leaflet&logoColor=white)  
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logo=cat&logoColor=black)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Polars](https://img.shields.io/badge/Polars-0099CC?logo=apachespark&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=Apache-Airflow&logoColor=white)  
-![Prefect](https://img.shields.io/badge/Prefect-212121?logo=prefect&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)  
+## 🛠️ ML-инструменты
 
+| **Frameworks** | **Data Tools** | **Deployment** | **Core** |
+|:---------------|:---------------|:---------------|:---------|
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) | ![Polars](https://img.shields.io/badge/Polars-0099CC?logo=polars&logoColor=white) | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+| ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) | ![Prefect](https://img.shields.io/badge/Prefect-212121?logo=prefect&logoColor=white) | ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) |
+| ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white) |  | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |  |
+| ![LightGBM](https://img.shields.io/badge/LightGBM-0B9E48?logo=lightgbm&logoColor=white) |  |  |  |
+| ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logo=catboost&logoColor=black) |  |  |  |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white) |  |  |  |
+| ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black) |  |  |  |
 ---
 
 ## Рандомная шутка
