@@ -44,6 +44,11 @@
 
 ---
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Drone-monitoring-system&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Drone-monitoring-system)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Energy-Balance-Forecasting-and-Planning-App&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Energy-Balance-Forecasting-and-Planning-App)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Social-Media-Data-EDA&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Social-Media-Data-EDA)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Central-Asia-Data-Analysis&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Central-Asia-Data-Analysis)
+---
 ## 📊 ML Метрики проектов
 
 **Точность моделей:**
@@ -54,15 +59,7 @@
 **Обработано данных:** 15TB+ 
 **Обучено моделей:** 50+ 
 **Production деплой:** 12 моделей
-
 ---
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Drone-monitoring-system&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Drone-monitoring-system)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Energy-Balance-Forecasting-and-Planning-App&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Energy-Balance-Forecasting-and-Planning-App)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Social-Media-Data-EDA&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Social-Media-Data-EDA)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Central-Asia-Data-Analysis&theme=tokyonight&description=1)](https://github.com/MrPukhaevGeor/Central-Asia-Data-Analysis)
----
-
 ## Топовые языки
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPukhaevGeor&layout=compact&theme=radical)  
 
