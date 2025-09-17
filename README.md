@@ -49,10 +49,8 @@
 
 ---
 
-## 📂 Репозитории
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=project1&theme=tokyonight)](https://github.com/MrPukhaevGeor/Drone-monitoring-system)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=project2&theme=tokyonight)](https://github.com/MrPukhaevGeor/project2)  
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=Drone-monitoring-system&theme=tokyonight)](https://github.com/MrPukhaevGeor/Drone-monitoring-system)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrPukhaevGeor&repo=название-второго-репозитория&theme=tokyonight)](https://github.com/MrPukhaevGeor/название-второго-репозитория)  
 ---
 
 ## 🔝 Топовые языки
